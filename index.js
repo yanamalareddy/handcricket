@@ -95,7 +95,6 @@ imgss.setAttribute("src",myimages[rnd]);
 imgss.setAttribute("height","150");
 imgss.setAttribute("width","150");
 document.getElementById("bt").appendChild(imgss);
-
 //document.create('<img src="'+myimages[rnd]+'"height="150" width="150">');
 
 }
